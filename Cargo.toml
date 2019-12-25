@@ -10,3 +10,5 @@ edition = "2018"
 reqwest = "0.9.24"
 scraper = "0.11.0"
 tokio = { version = "0.2", features = ["full"] }
+hyper = "0.13"
+hyper-tls = "0.4.0"
